@@ -1,8 +1,6 @@
 👋 Sergei Mikheev
 
 Software Engineer | Python | Java  
-#Architecture #SoftwareDesign #CleanCode #OpenSource  
-
 Interested in architecture, design & collaborations.
 
 ---
@@ -13,7 +11,4 @@ Interested in architecture, design & collaborations.
 
 **PyArchRules** (Beta)  
 Architectural rules for Python.  
-
-#Python #StaticAnalysis #ArchitectureValidation  
-
 https://github.com/mspitb/pyarchrules
