@@ -10,6 +10,6 @@ Interested in architecture, design & collaborations.
   <img src="https://gist.githubusercontent.com/mspitb/862bc8c4b0e176e98f06e624761519da/raw/f4237236769bd2739132790f6c6f1157e3be5131/pyarchrules_logo.svg" alt="PyArchRules Logo" width="300">
 </p>
 
-**PyArchRules** (Beta)  
+**PyArchRules** (1.0.0)  
 Architectural rules for Python.  
 https://github.com/mspitb/pyarchrules
